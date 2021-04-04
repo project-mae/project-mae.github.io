@@ -90,7 +90,7 @@ body {
 
 .form-control-dark {
   color: #fff;
-  background-color:#ffffff;
+  background-color:rgba(184, 184, 184, 0.25);
   border-color: rgb(215, 217, 218);
 }
 
