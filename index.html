@@ -19,8 +19,14 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" href="#">Home</a>
+            <li class="nav-item dropdown">
+              <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Home
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="#welcome">History of the Analytical Engine</a></li>
+                <li><a class="dropdown-item" href="#docs">More about the MAE</a></li>
+              </ul>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -60,7 +66,7 @@
 
     <div class='container'>
       </br></br></br>
-      <h2 class='text-center'>Welcome to Project MAE</h2>
+      <h2 id='weclome' class='text-center'>Welcome to Project MAE</h2>
       <img src="gallery/CAD-render.jpg" class="shrink75 mx-auto d-block" alt="CAD Render">
       <p>
         MAE is the culmination of a lifelong dream to enable all students, young and old, near and far, to better understand the fundamental concepts of computing. 
@@ -81,6 +87,7 @@
       <p>
         Project MAE's Github Organization can be found <a href='https://github.com/project-mae'>here</a>
       </p>
+      <h2 id='docs' class='text-center'>Documentation</h2>
     </div>      
   
   </body>
