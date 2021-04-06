@@ -1,0 +1,9 @@
+.shrink25{
+    max-width: 25%;
+    height: auto
+}
+
+.shrink75{
+    max-width: 75%;
+    height: auto
+}
