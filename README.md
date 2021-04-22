@@ -1,5 +1,3 @@
-<title>Welcome</title>
-
 ![CAD-render.jpg](/gallery/CAD-render.jpg "CAD-render.jpg").
 
 MAE is the culmination of a lifelong dream to enable all students, young and old, near and far, to better understand the fundamental concepts of computing. 
@@ -26,12 +24,10 @@ Therefore, the Modern Analytical Engine and its associated engineers have publis
 The Modern Analytical Engine is worked on by people from various races, ethnicities, sexualities, cultures, neurotypes and identities. 
 It is not only encouraged but expected that its engineers  make explicit effort to respect and accommodate these cultural differences in a socially responsible manner in order to create a safe work environment, as well as to promote the inclusivity of these cultures in an engineering field. 
 
-
 #### Fairness
 The Modern Analytical Engine and its engineers strive to promote an equal opportunity environment, allowing engineers to service the project and its broader community in a way that is most directly appropriate to its engineers’ abilities. 
 The Modern Analytical Engine will ensure that treatment within its work environment is appropriate and benevolent, and that the conduct between peers is equitable. 
 Similarly, we encourage that new engineers are treated equitably, and given appropriate opportunity within the work environment.
-
 
 #### Respect for the Human Being
 It is imperative that within the workplace, engineers not only acknowledge the professional activities of their peers, but also acknowledge their personal affairs. 
