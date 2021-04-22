@@ -1,3 +1,7 @@
+---
+permalink: /gallery/
+---
+
 # Gallery
 
 ## CAD Renderings

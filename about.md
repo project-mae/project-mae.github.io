@@ -1,3 +1,7 @@
+---
+permalink: /about/
+---
+
 # About
 
 ## History of the Analytical Engine
