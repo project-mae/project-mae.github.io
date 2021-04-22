@@ -1,6 +1,6 @@
 # Home
 
-![CAD-render.jpg](/gallery/CAD-render.jpg "CAD-render.jpg").
+![CAD-render.jpg](/images/CAD-render.jpg "CAD-render.jpg").
 
 MAE is the culmination of a lifelong dream to enable all students, young and old, near and far, to better understand the fundamental concepts of computing. 
 As a young child I learned much in my grandfather's basement workshop, where we'd spend endless hours together as he tinkered with woods and metals, transforming raw materials into works of art and moving magic. 
