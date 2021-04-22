@@ -1,5 +1,5 @@
 ## Live Feed
 * Coming Soon
 
-## Queue<
+## Queue
 * Coming Soon
