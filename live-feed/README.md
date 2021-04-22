@@ -1,6 +1,4 @@
-## Live Feed
-
-## Live Feed
+# Live Feed
 * Coming Soon
 
 ## Queue

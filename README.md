@@ -1,4 +1,4 @@
-## Home
+# Home
 
 ![CAD-render.jpg](/gallery/CAD-render.jpg "CAD-render.jpg").
 

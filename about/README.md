@@ -1,4 +1,4 @@
-## About
+# About
 
 ## History of the Analytical Engine
 ![analytical-engine-history.jpg](../gallery/analytical-engine-history.jpg "analytical-engine-history")
